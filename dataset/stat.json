@@ -1,0 +1,19 @@
+ {
+      
+     "no education" :  {
+        "male" : 116 , 
+        "female" : 32 
+     } ,  
+    "primary" :  {
+        "male" : 123 , 
+        "female" : 32 
+     } , 
+     "secondary" : {
+        "male" : 125 , 
+        "female" : 100 
+     } , 
+     "higher education" : {
+        "male" : 145 , 
+        "female" : 150 
+     }
+}
